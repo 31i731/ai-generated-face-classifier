@@ -13,7 +13,7 @@ This project uses a ResNet50-based classifier to distinguish between AI-generate
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/your-username/ai-generated-face-classifier.git
+git clone https://github.com/31i731/ai-generated-face-classifier.git
 
 2. Install the required libraries:
 pip install -r requirements.txt
