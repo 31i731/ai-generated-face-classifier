@@ -12,6 +12,7 @@ This project uses a ResNet50-based classifier to distinguish between AI-generate
 - **AI-Generated Faces**: 1000 samples.
 P.S. The dataset is not included in this repository. You can download it from Kaggle:
 [Detect AI-Generated Faces Dataset](https://www.kaggle.com/datasets/shahzaibshazoo/detect-ai-generated-faces-high-quality-dataset)
+
 See [DATASET.md](DATASET.md) for more details.
 
 ## How to Run
